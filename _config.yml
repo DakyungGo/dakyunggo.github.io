@@ -63,3 +63,4 @@ plugins:
 
 remote_theme: samarsault/plainwhite-jekyll
 futrue: true
+baseurl: '/blog'
